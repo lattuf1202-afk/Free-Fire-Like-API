@@ -1,6 +1,8 @@
 [
 {
-        "uid": "11062018054",
-        "password": "LM181920"
-    }
+  "uid": "11062018054",
+  "account_type": "FACEBOOK", 
+  "email": "lmlm30799@gmail.com",
+  "password": "LM181920"
+}
 ]
